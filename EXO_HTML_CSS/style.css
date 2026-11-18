@@ -13,7 +13,7 @@ body {
 }
 
 .carte:hover {
-    transform: scale(1.05) rotate(360deg) translateY(10px);
+    transform: scale(1.05) rotate(150deg) translateY(10px);
 }
 
 .image {
